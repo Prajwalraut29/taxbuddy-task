@@ -39,7 +39,7 @@ const Search = () => {
                         ))}
                     </ul>
                 ) : (
-                    <p>No books found.</p>
+                    <p>No books found. Ex: The cantebury Tales Geoffrey Chaucer 1995 </p>
                 )}
             </div>
         </div>
